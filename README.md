@@ -36,7 +36,25 @@ The mean results we got, for 1000 experiments:
     The mean time of waiting in the 2nd line: 2.896499 hours
     The mean time of waiting in the system: 3.012932 hours
 
+![](images/im1.png)
 
+![](images/im2.png)
+
+![](images/im3.png)
+
+    Mean of number of clients served in a day: 58.956
+    Moment in time of the first unsatisfied customer: 2.260393 (2.26 hours after opening)
+    Mean number of unsatisfied clients who left 1st line: 116.754
+    Mean number of clients of unsatisfied clients who left 2nd line: 309.789
+    Mean number of unsatisfied clients who left the system: 426.543
+
+![](images/im4.png)
+
+![](images/im5.png)
+
+![](images/im6.png)
+
+![](images/im7.png)
 
 
 
