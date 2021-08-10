@@ -23,12 +23,15 @@ Another experiment was seeing by how much will the income be increased if the ma
 
 
 The mean results we got, for 1000 experiments:
+
     The minimal time of waiting in the first line: 0.00833 hours
     The minimal time of waiting in the second line: 0.20602 hours
     The minimal time of waiting in the system: 0.21435 hours
+    
     The maximal time of waiting in the first line: 1.139847 hours
     The maximal time of waiting in the second line: 3.73911 hours
     The maximal time of waiting in the system: 4.829137 hours
+    
     The mean time of waiting in the 1st line: 0.1164337 hours
     The mean time of waiting in the 2nd line: 2.896499 hours
     The mean time of waiting in the system: 3.012932 hours
