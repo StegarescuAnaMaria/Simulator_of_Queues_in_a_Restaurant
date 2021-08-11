@@ -56,8 +56,35 @@ The mean results we got, for 1000 experiments:
 
 ![](images/im7.png)
 
+![](images/im8.png)
 
+    Mean daily income: 1344.772
+    Minimum daily income: 1148.11
+    Maximum daily income: 1444.978
+    
+![](images/im9.png)
 
+![](images/im10.png)
+
+    Mean daily income if the schedule starts one hour earlier: 1339.443
+    Difference in income from the usual day: -5.328994
+    Mean daily income if the schedule starts one hour later: 1452.947
+    Difference in income from the usual day: 108.1755
+
+    Mean daily income if the maximum amount of clients waiting in the 1st line is increased by 5: 1341.613
+    Difference in income from the usual day: -3.158952
+    Mean daily income if the maximum amount of clients waiting in the 2nd line is increased by 5: 1460.236
+    Difference in income from the usual day: 115.4638
+
+Conclusion:
+
+During rush hours, even though the rate of clients' arrival is higher, the amount of served clients does not increase from the usual, because the rate of clients served in the 2nd queue is slow, and the amount of clients waiting reaches maximum, thus the loss of clients.
+
+The only increase in income is if we increase the number of maximum clients waiting in the second queue, an increase of income of about 100.
+
+The increase of maximum clients waiting in the 1st line rarely brings good results.
+
+Also, the increase in income is noticed if the extend the schedule by an hour later. There's rarely any results if it is extended by 1 hour earlier.
 
 
 
