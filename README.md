@@ -1,5 +1,4 @@
 # Simulator_of_Queues_in_a_Restaurant
-
 This is a simulation experiment of clients waiting in 2 successive queues. This experiment is meant to teach us how to estimate the statistics of satisfied/unsatisfied customers in a certain amount of time and how these statistics might change if we make changes to the circumstances.
 
 The app is made in R, with the interface made with shinyapp.
